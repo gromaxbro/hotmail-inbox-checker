@@ -1,0 +1,6 @@
+ctypes
+colorama
+pystyle
+imaplib
+email
+pystyle
